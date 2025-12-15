@@ -107,7 +107,7 @@ streamlit run Analise_Titanic.py
 
 O vídeo de apresentação do projeto, com duração máxima de 5 minutos, está disponível no link abaixo:
 
-🔗 **Link do vídeo:** (inserir aqui o link do YouTube ou Drive público)
+🔗 **Link do vídeo:** https://www.youtube.com/watch?v=oVswXFZLqbE
 
 No vídeo são explicadas as etapas do projeto, as decisões tomadas e os principais resultados obtidos.
 
@@ -137,4 +137,5 @@ Como trabalhos futuros, sugere-se a aplicação de outros algoritmos de classifi
 ## 👤 Autor
 
 Projeto desenvolvido por **Hericc Rocha de Araujo Melo e Davi Maia**.
+
 OBS: Eu Hericc não sou muito bom com Visual de sites/DashBoard/jogos/... por isso eu mantive a aparencia de agora, espero que isso não comprometa sua experiencia sobre o código do dashboard.
